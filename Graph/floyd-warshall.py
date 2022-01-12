@@ -27,7 +27,7 @@ for k in range(1, v + 1):
             
 # 모든 노드에서 모든 노드로 가는 최단 경로 출력
 for a in range(1, v + 1):
-    for b in range(1, n + 1):
+    for b in range(1, v + 1):
         # 도달할 수 없는 경우, INFINITY 출력
         if G[a][b] == INF: print("INFINITY", end=" ")
         # 도달할 수 있는 경우, 거리를 출력
