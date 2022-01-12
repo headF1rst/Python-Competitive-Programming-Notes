@@ -6,4 +6,5 @@ Contents
 
 Graph
 
-- [Bellman-Ford](/Graph/bellman_ford.py) 
+- [Bellman-Ford](/Graph/bellman_ford.py)
+- [Dijkstra](/Graph/dijkstra.py) 
