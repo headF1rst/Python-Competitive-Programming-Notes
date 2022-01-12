@@ -3,8 +3,13 @@
 
 Contents
 ---
+Searching
+
+- [DFS](/Searching/dfs.py)
+- [BFS](/Searching/bfs.py)
 
 Graph
 
 - [Bellman-Ford](/Graph/bellman_ford.py)
-- [Dijkstra](/Graph/dijkstra.py) 
+- [Dijkstra](/Graph/dijkstra.py)
+    - [Dijkstra-path-tracing](/Graph/dijkstra_path_tracing.py)
