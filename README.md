@@ -14,3 +14,5 @@ Graph
 - [Dijkstra](/Graph/dijkstra.py)
     - [Dijkstra-path-tracing](/Graph/dijkstra_path_tracing.py)
 - [Floyd-Warshall](/Graph/floyd-warshall.py)
+
+- [minimum_spanning_tree](/Graph/minimum_spanning_tree.py)
