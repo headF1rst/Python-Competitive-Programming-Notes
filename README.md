@@ -16,3 +16,7 @@ Graph
 - [Floyd-Warshall](/Graph/floyd-warshall.py)
 
 - [minimum_spanning_tree](/Graph/minimum_spanning_tree.py)
+
+Sequence
+
+- [Longest_Increasing_Subsequence](/Sequence/LIS.py)
