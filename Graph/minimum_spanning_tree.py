@@ -6,7 +6,7 @@ parent = [0] * (v + 1) # 부모 테이블 초기화
 for i in range(1, v + 1):
     parent[i] = i
 
-# 모든 간선을 담을 리스트와 최종 비용을 담을 변수 result
+# 모든 간선을 담을 리스트와 mst의 모든 간선의 비용을 저장하는 result
 edges = []
 result = 0
 
@@ -19,7 +19,7 @@ for _ in range(e):
 # 간선을 오름차순으로 정렬
 edges.sort()
 
-# 특정 원소가 속한 집합을 찾는 함수
+# 특정 원소가 속한 집합을 찾는 함수 (x의 루트 노드를 찾는다)
 def find_parent(parent, x):
     # 루트 노드가 아니라면 루트 노드 찾을때 까지 재귀적으로 호출
     if parent[x] != x:
