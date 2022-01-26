@@ -23,6 +23,7 @@ Graph
 DP
 
 - [KnapSack](/DP/knapsack.py)
+- [Palindrome](/DP/palindrome.py)
 
 Sequence
 
