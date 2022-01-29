@@ -31,3 +31,4 @@ Sequence
 
 Miscellaneous
 - [Matrix Rotation](/Miscellaneous/matrix_rotation.py)
+- [Fast Power](/Miscellaneous/fast_power.py)
