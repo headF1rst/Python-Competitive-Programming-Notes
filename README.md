@@ -28,3 +28,6 @@ DP
 Sequence
 
 - [Longest_Increasing_Subsequence](/Sequence/LIS.py)
+
+Miscellaneous
+- [Matrix Rotation](/Miscellaneous/matrix_rotation.py)
