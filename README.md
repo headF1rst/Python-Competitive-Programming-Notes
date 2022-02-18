@@ -20,7 +20,7 @@ Graph
 - [Topology_sort](/Graph/topology_sort.py)
 - [cycle-check](/Graph/cycle-check.py)
 
-DP
+D
 
 - [KnapSack](/DP/knapsack.py)
 - [Palindrome](/DP/palindrome.py)
